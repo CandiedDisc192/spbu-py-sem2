@@ -1,5 +1,6 @@
 import pytest
-from src.tests.test1.test1n1 import Product, Cart, Shop
+
+from src.tests.test1.test1n1 import Cart, Product, Shop
 
 
 @pytest.fixture
